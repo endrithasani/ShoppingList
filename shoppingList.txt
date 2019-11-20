@@ -3,3 +3,5 @@ apple
 orange
 peach
 grape
+blueberry
+watermelon
